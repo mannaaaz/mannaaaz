@@ -7,10 +7,12 @@
 
 - ⚡ I provide data analysis & visualizations services here: [https://on.contra.com/fDnkND](https://on.contra.com/fDnkND)
 
+- 📫 How to reach me **mannazain82@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mannaaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mannaaaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zain manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain manna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zainmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainmanna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
